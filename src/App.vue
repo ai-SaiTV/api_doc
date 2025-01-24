@@ -1,8 +1,5 @@
 <template>
   <apiDev />
-  <div class="text-center">
-    Hello!
-  </div>
 </template>
 
 <script setup lang="ts">
